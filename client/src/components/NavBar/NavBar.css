@@ -1,0 +1,26 @@
+.nav-container {
+   
+    background-color: rgb(115, 147, 179, 0.8);
+    padding: 1%;
+    border: 1px solid #211b1b;
+    border-radius: 3px;
+    
+ 
+}
+
+.navList {
+    list-style: none;
+    font-size: 1.3rem;
+    
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+li a:hover {
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(139, 160, 182);
+}
